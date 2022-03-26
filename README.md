@@ -3,7 +3,7 @@ Russian government and politics instagram data and code after march 2022 archiva
 
 # Requirements
 
-Please install Python "typer' lib "pip install typer.
+Please install Python "typer' lib "pip install typer".
 
 Please install "instaloader" - https://instaloader.github.io
 
